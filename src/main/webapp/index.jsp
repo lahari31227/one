@@ -11,6 +11,9 @@
 	<h1 style="color: GREY; font-size: 40px;" align="Right">WE Have SUCCESSFULLY DEPLOYED APPLICATION:-->></h1>
 	<h1 style="color: Blue; font-size: 40px;" align="Left">WE Have SUCCESSFULLY integrated Nexus to Jenkins CI Server:-->></h1>
 	<h1 style="color: Blue; font-size: 40px;" align="Left">WE Have SUCCESSFULLY integrated Nexus to Jenkins CI Server:-->></h1>
+
+
+
 	<h2 style="color: Purple; font-size: 40px;" align="Left">WE Have SUCCESSFULLY integrated Nexus to Jenkins CI Server V3:-->></h2>
 	
 	
